@@ -1,4 +1,4 @@
-# Zech Chan Github 
+# Zech Chan Github (๑`^'๑)︻デ═一 ʕ•͡-•ʔ
 
 ## The Basics of GitHub
 
