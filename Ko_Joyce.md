@@ -10,5 +10,3 @@
 - issues
 - user profiles
 - using markdown in github
-- 
-- 
