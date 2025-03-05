@@ -5,3 +5,8 @@ Git is a distributed **Version Control System** (VCS), which is a tool that trac
 GitHub is basically a UI for Git, making it easier for beginner developers to start coding and collaborate on projects.
 
 ## Understanding the GitHub flow
+### Repositories
+A repository is a data structure that stores your project's files. It also contains the project's past versions. In GitHub a repository is open-source and public by default. You can work within a repository alone, or with other people via collaboration.
+
+### Cloning
+When creating a repository, it is stored in the cloud, but if you want to work on a repository locally (or when you're offline), you can clone your (or other's) repository on to your computer, by using `git clone`. By cloning a repository, it makes it easier to add/remove files, and push larger commits. If you do not like 
