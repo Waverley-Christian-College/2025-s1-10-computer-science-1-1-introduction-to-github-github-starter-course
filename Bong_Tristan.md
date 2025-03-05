@@ -1,3 +1,7 @@
 # **What I learnt about Github**
 ## Git and GitHub
 Git is a distributed **Version Control System** (VCS), which is a tool that tracks changes in code, whether working by yourself, or in a collaboration. By using Git, which is universally accepted as the best VCS, you can track your project with much more clarity, as you can easily collect a record of all versions you've worked on, and you can easily revert back to older versions of a project if needed. Git makes collaborating on projects a lot easier as well. Many people working on the same roject can merge their changes into one source/version.
+
+GitHub is basically a UI for Git, making it easier for beginner developers to start coding and collaborate on projects.
+
+## Understanding the GitHub flow
