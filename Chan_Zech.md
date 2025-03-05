@@ -29,4 +29,4 @@
 - Set up your **profile README** to showcase your interests.  
 - Create a repository and explore its features.  
 
-[Syntax link](https://www.markdownguide.org/basic-syntax/#overview)
+[Guide 📝](https://www.youtube.com/watch?v=xvFZjo5PgG0)
