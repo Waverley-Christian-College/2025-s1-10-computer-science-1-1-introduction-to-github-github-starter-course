@@ -15,11 +15,11 @@ When creating a repository, it is stored in the cloud, but if you want to work o
 Commiting and pushing is how you add or remove changes you made on a local, cloned repo. You can make a commit after you have finished making changes to a project that you want to checkpoint (so you don't lose your work). A commit message can be used to tell others what you have done to the project. Once you have commited or have done multiple commits, you can use `git push` to add the changes to the remote repo.
 
 ## GitHub terms to know
-Repositories ✅
-Branches: Branches are used to isolate work that you don't want to be merged into the final project yet. ✅
-Forks: A way to copy another repository. ✅
-Pull Requests: Tell others about the change you want to make, and ask for feedback. ✅
-Issues: A forum to track issues, enhances, and tasks within a project. ✅
-Your user profile: Tells others about what you have done and the contirbutions you have made. ✅
-Markdown: A way to format text ✅
-Engaging with the GitHub community: Starring repos, following users, and browsing GitHub explore. ✅
+**Repositories**: Where your project work happens. ✅  
+**Branches**: Branches are used to isolate work that you don't want to be merged into the final project yet. ✅  
+**Forks**: A way to copy another repository. ✅  
+**Pull Requests**: Tell others about the change you want to make, and ask for feedback. ✅  
+**Issues**: A forum to track issues, enhances, and tasks within a project. ✅  
+**Your user profile**: Tells others about what you have done and the contirbutions you have made. ✅  
+**Markdown**: A way to format text ✅  
+**Engaging with the GitHub community**: Starring repos, following users, and browsing GitHub explore. ✅  
