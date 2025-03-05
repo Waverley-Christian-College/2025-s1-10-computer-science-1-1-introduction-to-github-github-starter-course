@@ -7,6 +7,8 @@ I learnt that a repository is a place where you can do your *<strong>work<strong
 
 *I learnt that you can follow users on GitHub, By following them you get ***NOTIFICATIONS*** about their activity* 𐐘🤝ඞ
 
+Thats Basicly it! (ง'̀-'́)ง
+
 
 
 
