@@ -14,4 +14,6 @@ Things i need <ol>
   <li>Sleep</li>
   <li>Lunch</li>
   <li>DCS</li>
-</ol>
+</ol> <br>
+What I learnt: how to bold text, to to make text slanted, how to create lists and headings. <br>
+how to make Paragraphs and how to set a line to start below. When creating a list, make sure to keep the code the same
