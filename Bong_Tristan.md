@@ -10,3 +10,6 @@ A repository is a data structure that stores your project's files. It also conta
 
 ### Cloning
 When creating a repository, it is stored in the cloud, but if you want to work on a repository locally (or when you're offline), you can clone your (or other's) repository on to your computer, by using `git clone`. By cloning a repository, it makes it easier to add/remove files, and push larger commits. If you do not like the GitHub editor UI, by cloning your repository, you can use a third-party editor of your choice. Cloning a repository also pulls down all the data that GitHub had at that point in time, as well as all versions of all file and folder of the project.
+
+### Commiting and pushing
+Commiting and pushing is how you add or remove changes you made on a local, cloned repo. You can make a commit after you have finished making changes to a project that you want to checkpoint (so you don't lose your work). A commit message can be used to tell others what you have done to the project. Once you have commited or have done multiple commits, you can use `git push` to add the changes to the remote repo.
