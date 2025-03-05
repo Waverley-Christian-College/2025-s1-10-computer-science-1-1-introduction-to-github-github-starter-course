@@ -23,10 +23,4 @@
 - **Follow users** to see their activity.  
 - **Explore GitHub** to discover new projects and developers.  
 
-## Next Steps 👟
-- Open a pull request to share what you learned.  
-- Create a new markdown file and experiment with styles.  
-- Set up your **profile README** to showcase your interests.  
-- Create a repository and explore its features.  
-
 - [Guide 📝](https://www.youtube.com/watch?v=xvFZjo5PgG0)
