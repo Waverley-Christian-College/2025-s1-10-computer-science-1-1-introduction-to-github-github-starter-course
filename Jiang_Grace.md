@@ -54,5 +54,6 @@ Github is a VCS that's used for collaborating with others and tracking your own 
 
 ### GitHub Community:
 -The world of GitHub users
+
 -People can publish their work for others to see
 
